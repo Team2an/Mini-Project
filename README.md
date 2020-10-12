@@ -4,7 +4,7 @@ Guide: Rani Saritha R
 
 Scrum Master: Raveena R Marangattu
 
-Team:
+Team Members:
 
 Amitha Khan K H
 
