@@ -6,12 +6,12 @@ Scrum Master: Raveena R Marangattu
 
 Team Members:
 
-Amitha Khan K H
+1. Amitha Khan K H
 
-Ankitha Chinnu Mathew
+2. Ankitha Chinnu Mathew
 
-Ansu Raju
+3. Ansu Raju
 
-Navya Lekshmi M
+4. Navya Lekshmi M
 
-Raveena R Marangattu
+5. Raveena R Marangattu
